@@ -1,4 +1,3 @@
-
 //IMPORTS
 importScripts('js/sw-utils.js');
 
@@ -10,7 +9,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL = [
 	// '', SOLO PRODUCCION
-	'/index.html',
+	'index.html',
 	'css/style.css',
 	'img/favicon.ico',
 	'img/avatars/spiderman.jpg',
